@@ -28,7 +28,7 @@ Este é um aplicativo desenvolvido em Python usando a biblioteca Tkinter. O obje
    
 ## Instruções para Uso do Executável
 
-1. Baixe o arquivo VerificadorDeMistura.exe do repositório.
+1. Baixe o arquivo verificador-mistura-produtos-de-limpeza.exe do repositório.
 2. Execute o arquivo diretamente no seu sistema Windows.
 3. Siga as instruções na interface do aplicativo para verificar as misturas de produtos de limpeza.
 
