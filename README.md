@@ -19,8 +19,8 @@ Este é um aplicativo desenvolvido em Python usando a biblioteca Tkinter. O obje
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/verificador-de-mistura.git
-   cd verificador-de-mistura
+   git clone https://github.com/matheusmontenegro97/Verificador-Mistura-Produtos-Limpeza-Python.git
+   cd Verificador-Mistura-Produtos-Limpeza-Python
 
 2. **Execute a aplicação:**
    ```bash
